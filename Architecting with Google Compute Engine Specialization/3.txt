@@ -1,0 +1,3 @@
+3	Essential Google Cloud Infrastructure: Core Services
+4	Elastic Google Cloud Infrastructure: Scaling and Automation
+5	Reliable Google Cloud Infrastructure: Design and Process

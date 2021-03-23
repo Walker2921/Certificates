@@ -1,0 +1,4 @@
+2	Regression Models
+3	Practical Machine Learning
+4	Developing Data Products
+5	Data Science Capstone

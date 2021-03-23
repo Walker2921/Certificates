@@ -1,0 +1,5 @@
+1	The R Programming Environment
+2	Advanced R Programming
+3	Building R Packages
+4	Building Data Visualization Tools
+5	Mastering Software Development in R Capstone

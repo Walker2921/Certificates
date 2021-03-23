@@ -1,0 +1,4 @@
+1	Python for Data Science and AI
+2	Data Analysis with Python
+3	Data Visualization with Python
+4	Applied Data Science Capstone

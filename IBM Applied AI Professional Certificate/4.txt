@@ -1,0 +1,4 @@
+3	Building AI Powered Chatbots Without Programming
+4	Python for Data Science and AI
+5	Building AI Applications with Watson APIs
+6	Introduction to Computer Vision with Watson and OpenCV
